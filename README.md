@@ -46,7 +46,7 @@ Ideally suited for both experienced and novice Developers.
 - [Ankur Srivastava](https://github.com/ansrivas) donated 20 EUR at October 2
 - [Anonymous](https://github.com/kataras/iris/blob/master/DONATIONS.md#donations) donated 100 EUR at October 18
 - [Anonymous](https://github.com/kataras/iris/blob/master/DONATIONS.md#donations) donated 20 EUR at October 19
-- [赵 益鋆](https://github.com/se77en) donated 20 EUR at October 21
+- [Damon Zhao](https://github.com/se77en) donated 20 EUR at October 21
 - Anonymous (by own will) donated 50 EUR at October 21
 
 **Random articles**
